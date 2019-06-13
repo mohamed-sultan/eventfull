@@ -1,0 +1,48 @@
+{
+  "name": "eventfull",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "16.8.3",
+    "react-native": "0.59.1",
+    "react-native-confirmation-code-field": "^3.4.1",
+    "react-native-dash": "0.0.9",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-gesture-handler": "^1.0.17",
+    "react-native-keyboard-manager": "^4.0.13-10",
+    "react-native-linear-gradient": "^2.5.3",
+    "react-native-localization": "^2.1.0",
+    "react-native-modalbox": "github:elbadrawy/react-native-modalbox",
+    "react-native-popup-menu": "^0.15.5",
+    "react-native-reanimated": "^1.0.0-alpha.12",
+    "react-native-restart": "https://github.com/avishayil/react-native-restart",
+    "react-native-simple-toast": "0.0.8",
+    "react-native-slider": "^0.11.0",
+    "react-native-snap-carousel": "^3.7.5",
+    "react-native-star-rating": "^1.1.0",
+    "react-native-status-bar-height": "^2.3.1",
+    "react-native-tab-view": "^2.0.3",
+    "react-navigation": "^3.0.9",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/runtime": "^7.3.4",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

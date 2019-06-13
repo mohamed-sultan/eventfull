@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://bsamat.com/demo/eventful/api/v2/';
