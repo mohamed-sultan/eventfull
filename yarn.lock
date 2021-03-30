@@ -5033,6 +5033,14 @@ react-native-confirmation-code-field@^3.4.1:
   resolved "https://registry.yarnpkg.com/react-native-confirmation-code-field/-/react-native-confirmation-code-field-3.4.1.tgz#0ec9b9d400e026454d17584d08d101971074f040"
   integrity sha512-te+wa9QEsskXERSpnONNzuK42RIhSyRLqMm8k7mY8atlCj5+zyoNF+LYqudvSZ7OHph7hRVJHhhvB4NJZQI3iA==
 
+react-native-dash@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/react-native-dash/-/react-native-dash-0.0.9.tgz#a07eb06a360530e42980e9cf90fd7f862705e2f2"
+  integrity sha1-oH6wajYFMOQpgOnPkP1/hicF4vI=
+  dependencies:
+    prop-types "^15.5.10"
+    react-native-measureme "0.0.1"
+
 react-native-datepicker@^1.7.2:
   version "1.7.2"
   resolved "https://registry.yarnpkg.com/react-native-datepicker/-/react-native-datepicker-1.7.2.tgz#58d0822591a0ac9b32aba082650222a0ee29669d"
@@ -5075,6 +5083,11 @@ react-native-localization@^2.1.0:
   dependencies:
     react "^16.0.0"
     react-localization "^1.0.13"
+
+react-native-measureme@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-measureme/-/react-native-measureme-0.0.1.tgz#8b1c5595cdbb1cfdf85bff98fe36d33e98b6162c"
+  integrity sha1-ixxVlc27HP34W/+Y/jbTPpi2Fiw=
 
 "react-native-modalbox@github:elbadrawy/react-native-modalbox":
   version "1.7.1"
@@ -6545,9 +6558,9 @@ xtend@~4.0.1:
   integrity sha1-pcbVMr5lbiPbgg77lDofBJmNY68=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0":
   version "4.0.0"
