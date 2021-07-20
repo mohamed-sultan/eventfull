@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "react": "16.8.3",
-    "react-native": "0.59.1",
+    "react-native": "0.62.3",
     "react-native-confirmation-code-field": "^3.4.1",
     "react-native-dash": "0.0.9",
     "react-native-datepicker": "^1.7.2",
