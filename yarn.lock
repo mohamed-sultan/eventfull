@@ -3545,11 +3545,9 @@ json-stringify-safe@~5.0.1:
   integrity sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=
 
 json5@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-2.1.0.tgz#e7a0c62c48285c628d20a10b85c89bb807c32850"
-  integrity sha512-8Mh9h6xViijj36g7Dxi+Y4S6hNGV96vcJZr/SrlHh1LR/pEn/8j/+qIBbs44YKl69Lrfctp4QD+AdWLTMqEZAQ==
-  dependencies:
-    minimist "^1.2.0"
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
+  integrity sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==
 
 jsonfile@^2.1.0:
   version "2.4.0"
@@ -5033,6 +5031,14 @@ react-native-confirmation-code-field@^3.4.1:
   resolved "https://registry.yarnpkg.com/react-native-confirmation-code-field/-/react-native-confirmation-code-field-3.4.1.tgz#0ec9b9d400e026454d17584d08d101971074f040"
   integrity sha512-te+wa9QEsskXERSpnONNzuK42RIhSyRLqMm8k7mY8atlCj5+zyoNF+LYqudvSZ7OHph7hRVJHhhvB4NJZQI3iA==
 
+react-native-dash@0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/react-native-dash/-/react-native-dash-0.0.9.tgz#a07eb06a360530e42980e9cf90fd7f862705e2f2"
+  integrity sha512-lHViMq5sP0PJcMME5CBqv1Ul/0MzQVSH2XwJofeyuxoV5oBI5vcInnpo+qJ6jLxAljqqgZt0yD0KLm463GpvdA==
+  dependencies:
+    prop-types "^15.5.10"
+    react-native-measureme "0.0.1"
+
 react-native-datepicker@^1.7.2:
   version "1.7.2"
   resolved "https://registry.yarnpkg.com/react-native-datepicker/-/react-native-datepicker-1.7.2.tgz#58d0822591a0ac9b32aba082650222a0ee29669d"
@@ -5075,6 +5081,11 @@ react-native-localization@^2.1.0:
   dependencies:
     react "^16.0.0"
     react-localization "^1.0.13"
+
+react-native-measureme@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-measureme/-/react-native-measureme-0.0.1.tgz#8b1c5595cdbb1cfdf85bff98fe36d33e98b6162c"
+  integrity sha512-o6la82N5zfsTV8KwJ3QKn5HYuqy+TzmFufxNwJCMYe0NCplJJ/nJ7B7Nbn7bhFkBIWsMXjBX4HgnHLkGp0B5TA==
 
 "react-native-modalbox@github:elbadrawy/react-native-modalbox":
   version "1.7.1"
